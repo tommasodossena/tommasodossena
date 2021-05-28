@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Tommaso, a 23 years old Full Stack Web Developer from italy :it: <br>
+I'm a 23 years old Full Stack Web Developer from Italy.
 
 ###### BIO
 - 🔭 I’m currently working on Boolean's final project
-- I use daily: ```.html```
+- 👨‍💻 I use daily: ```.html```, ```.scss```, ```.js```, ```.php```
 - 🌱 I’m currently learning Vue Components
 - 💬 Ping me about **development, design, branding**
 - 📫 Reach me: [LinkedIn]https://www.linkedin.com/in/tommasodossena
