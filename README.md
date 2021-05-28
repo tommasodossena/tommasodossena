@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 23 years old Full Stack Web Developer from Italy 🇮🇹
+I'm a 23 years old Full Stack Web Developer from Italy.
 
 ###### BIO
 - 🔭 I’m currently working on **Boolean's final project**
