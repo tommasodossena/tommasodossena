@@ -7,7 +7,7 @@ I'm a 23 years old Full Stack Web Developer from Italy.
 - 👨‍💻 I use daily: ```.html```, ```.scss```, ```.js```, ```.php```, ```.svg```, ```.ai```, ```.psd```
 - 🌱 I’m currently learning Vue Components
 - 💬 Ping me about **development, design, branding**
-- 📫 Reach me: [LinkedIn]https://www.linkedin.com/in/tommasodossena
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/tommasodossena).
 
 <!--
 **tommasodossena/tommasodossena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
