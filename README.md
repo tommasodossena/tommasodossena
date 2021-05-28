@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Tommaso, a 23 years old Full Stack Web Developer from italy :it: <br>
+
+###### BIO
+- 🔭 I’m currently working on Boolean's final project
+- I use daily: ```.html```
+- 🌱 I’m currently learning Vue Components
+- 💬 Ping me about **development, design, branding**
+- 📫 Reach me: [LinkedIn]https://www.linkedin.com/in/tommasodossena
+
 <!--
 **tommasodossena/tommasodossena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
