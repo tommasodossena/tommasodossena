@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a 23 years old Full Stack Web Developer from Italy.
+I'm a 24 years old Full Stack Web Developer from Italy.
 
 ###### BIO
-- 🔭 I’m currently working on **Boolean's final project**
+- 🔭 I’m currently working in **H-FARM Innovation**
 - 👨‍💻 I use daily: ```.html```, ```.scss```, ```.js```, ```.php```, ```.svg```, ```.ai```
 - 🌱 I’m currently learning Fractal
 - 💬 Ping me about **development, design, branding**
