@@ -3,11 +3,9 @@
 I'm a 24 years old Full Stack Web Developer from Italy.
 
 ###### BIO
-- 🔭 I’m currently working for **H-FARM Innovation**
-- 👨‍💻 I use daily: ```.html```, ```.scss```, ```.js```, ```.php```, ```.svg```, ```.ai```
-- 🌱 I’m currently learning Fractal
-- 💬 Ping me about **development, design, branding**
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/tommasodossena).
+- 👨‍💻 I’m currently working for **H-FARM Innovation**
+- 🌱 I’m currently learning NuxtJS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tommasodossena).
 
 <!--
 **tommasodossena/tommasodossena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
